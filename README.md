@@ -1,2 +1,2 @@
 # Chatbot
-Chatbot using JS and AI
+Chatbot using JS and AI (NLP)
