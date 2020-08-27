@@ -1,0 +1,19 @@
+{
+  "name": "botbee",
+  "version": "1.0.0",
+  "description": "First chatbot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashankyadav03/Chatbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashankyadav03/Chatbot/issues"
+  },
+  "homepage": "https://github.com/shashankyadav03/Chatbot#readme"
+}
